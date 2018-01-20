@@ -11,7 +11,7 @@ Detecting Number plate from images of cars using openCV
 ![alt text](https://github.com/Aqsa-K/Car-Number-Plate-Detection-OpenCV-Python/blob/master/pictures/2%20-%20Bilateral%20Filter.jpg?raw=true)
 
 ## Find Edges
-![alt text](https://github.com/Aqsa-K/Car-Number-Plate-Detection-OpenCV-Python/blob/master/pictures/4%20-%20Canny%20Edges.jpg?raw=true)
+![alt text](https://github.com/Aqsa-K/Car-Number-Plate-Detection-OpenCV-Python/blob/master/pictures/3%20-%20Canny%20Edges.jpg?raw=true)
 
 Now find contours using edges and pick the best approximation - contour with four corners
 
